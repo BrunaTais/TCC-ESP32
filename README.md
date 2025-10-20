@@ -3,7 +3,7 @@ Trabalho IOT
  
 TCC : Realizado uma automação de baixo custo, com ESP32 e AppIventor
 
-Este repositório contém um trabalho de conclusão de curso Engenharia Elétrica, com linguagem, C++ e AppInventor visando uma automação residencial de baixo custo.
+Este repositório contém um trabalho de conclusão de curso Engenharia Elétrica, com linguagem de programação C++ e AppInventor visando uma automação residencial de baixo custo.
 
 
 Autor
